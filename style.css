@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    width: 770px;
+    padding: 50px;
+    justify-content: center;
+    background-color: rgba(223, 37, 37, 0.877);
+}
+.header h3 { 
+    color: white;
+    text-align: center;
+}
+.header input { 
+    color: black;
+    width: 570px;
+}
+.header button {
+    width: 180px;
+}
